@@ -1,0 +1,1 @@
+Repositório de programas que escrevi enquanto estudava a linguagem C.
